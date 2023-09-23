@@ -1,0 +1,11 @@
+div {
+    border: 0.5rem outset rgb(88, 82, 83);
+    outline: 0.5rem solid rgb(236, 218, 56);
+    box-shadow: 0 0 0 2rem rgb(17, 235, 10);
+    border-radius: 12px;
+    font: bold 1rem sans-serif;
+    margin: 2rem;
+    padding: 1rem;
+    outline-offset: 0.5rem;
+  }
+  
